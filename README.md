@@ -11,9 +11,10 @@ A lightweight Minecraft plugin for **Paper 1.21.5** that allows you to customize
 
 ## 📥 Installation
 
-1. Drop the compiled `MobAttributeTuner.jar` into your server's `plugins/` folder.
-2. Start your server. A default `config.yml` will be generated.
-3. Edit the `config.yml` to tweak mob behavior.
+1. [Download the latest `.jar` here](https://github.com/neldonado/MobAttributeTuner/releases/tag/release)
+2. Drop the compiled `MobAttributeTuner.jar` into your server's `plugins/` folder.
+3. Start your server. A default `config.yml` will be generated.
+4. Edit the `config.yml` to tweak mob behavior.
 
 ---
 
@@ -32,6 +33,7 @@ mobs:
     armor_toughness: 0.0
     knockback_resistance: 0.0
     movement_speed: 0.23
+
 
 
 
