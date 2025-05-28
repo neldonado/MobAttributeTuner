@@ -1,5 +1,4 @@
 # MobAttributeTuner
-https://i.hah.rip/MAT.png
 A lightweight Minecraft plugin for **Paper 1.21.5** that allows you to customize mob attributes via a simple `config.yml` file.
 
 🛠️ Built for: **Minecraft Java Edition 1.21.5**  
