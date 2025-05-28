@@ -1,8 +1,7 @@
 # MobAttributeTuner
 
-<p align="center">
-  <img src="https://i.hah.rip/MAT.png" alt="MobAttributeTuner" width="200"/>
-</p>
+<img src="https://i.hah.rip/MAT.png" alt="MobAttributeTuner" width="150"/>
+
 
 
 A lightweight Minecraft plugin for **Paper 1.21.5** that allows you to customize mob attributes via a simple `config.yml` file.
