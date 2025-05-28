@@ -1,7 +1,7 @@
 # MobAttributeTuner
 
 <p align="center">
-  <img src="https://i.hah.rip/MAT.png" alt="MobAttributeTuner" width="400"/>
+  <img src="https://i.hah.rip/MAT.png" alt="MobAttributeTuner" width="200"/>
 </p>
 
 
