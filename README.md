@@ -1,6 +1,11 @@
 # MobAttributeTuner
 
-A lightweight Minecraft plugin for Paper 1.21+ that allows you to customize mob attributes via a simple `config.yml` file.
+A lightweight Minecraft plugin for **Paper 1.21.5** that allows you to customize mob attributes via a simple `config.yml` file.
+
+🛠️ Built for: **Minecraft Java Edition 1.21.5**  
+🔌 Server compatibility: **PaperMC (recommended)**
+
+> ⚠️ This plugin relies on the Bukkit API — it may not work on non-Bukkit forks like Forge or Fabric.
 
 ---
 
