@@ -27,3 +27,14 @@ mobs:
     armor_toughness: 0.0
     knockback_resistance: 0.0
     movement_speed: 0.23
+
+
+
+| Attribute              | Description                     | Bukkit Constant                |
+| ---------------------- | ------------------------------- | ------------------------------ |
+| `health`               | Max health of the mob           | `GENERIC_MAX_HEALTH`           |
+| `damage`               | Melee attack damage             | `GENERIC_ATTACK_DAMAGE`        |
+| `armor`                | Damage reduction value          | `GENERIC_ARMOR`                |
+| `armor_toughness`      | Extra protection vs strong hits | `GENERIC_ARMOR_TOUGHNESS`      |
+| `knockback_resistance` | Prevents knockback              | `GENERIC_KNOCKBACK_RESISTANCE` |
+| `movement_speed`       | Movement speed (0.2 is normal)  | `GENERIC_MOVEMENT_SPEED`       |
